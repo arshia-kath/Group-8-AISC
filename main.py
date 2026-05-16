@@ -2,6 +2,7 @@ from src.preprocessing.video_loader import load_video
 from src.preprocessing.frame_extracter import get_frames
 from src.preprocessing.face_detector import detect_faces
 from download_data import download_data
+from src.freq_analysis import frequency_analyzer
 import cv2
 import os
 
