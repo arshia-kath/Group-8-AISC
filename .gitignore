@@ -47,6 +47,9 @@ desktop.ini
 *.swp
 *.swo
 
+# Generated EDA output
+eda_outputs/
+
 # Logs and temp
 *.log
 *.tmp

@@ -1,4 +1,4 @@
-# CLAUDE.md — Group 8 AISC: Deepfake Detection System
+# AGENTS.md — Group 8 AISC: Deepfake Detection System
 
 ## Project Overview
 
